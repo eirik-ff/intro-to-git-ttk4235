@@ -7,6 +7,9 @@ int main() {
     if (1 > 0) {
         return 1;
     }
+    else {
+        printf("False");
+    }
 
     return 0;
 }
