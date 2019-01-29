@@ -10,6 +10,7 @@ int main() {
         return 1;
     }
     else {
+        printf("False");
         return 10;
     }
 
